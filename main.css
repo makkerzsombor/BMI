@@ -9,12 +9,21 @@
 .gomb{
     background-color: white;
     color: #f3953e;
+    border:none;
 }
 .egesz{
-    width: 1800px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 1%
 }
 h2{
     color: #f3953e;
+}
+th{
+    width: 30%;
+    text-align: center;
+}
+td{
+    width: 70%;
+}
+.fent{
+    padding: 5px;
 }

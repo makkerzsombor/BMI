@@ -2,4 +2,4 @@ function szamit() {
     let mag = parseInt(document.getElementById('cm'))
     
 }
-document.getElementById('szamitas').addEventListener('',szamit)
+document.getElementById('szamitas').addEventListener('click',szamit)
