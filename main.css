@@ -11,8 +11,9 @@
     color: #f3953e;
     border:none;
 }
-h3{
+p{
     color: #f3953e;
+    font-size: 30px;
 }
 th{
     text-align: center;
