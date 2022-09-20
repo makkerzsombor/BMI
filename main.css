@@ -11,10 +11,7 @@
     color: #f3953e;
     border:none;
 }
-.egesz{
-    margin: 1%
-}
-h2{
+h3{
     color: #f3953e;
 }
 th{
@@ -26,4 +23,7 @@ td{
 }
 .fent{
     padding: 5px;
+}
+.bsarga{
+    color: #f3953e;
 }
