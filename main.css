@@ -1,8 +1,17 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 #sarga{
     background-color: #f3953e;
     color: white;
+    padding: 10px;
 }
 .gomb{
     background-color: white;
     color: #f3953e;
+}
+.egesz{
+    width: 1800px;
+    margin-left: auto;
+    margin-right: auto;
 }
