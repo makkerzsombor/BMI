@@ -11,11 +11,12 @@
 <div class="egesz">
     <section id="sarga">
         <label >Írja be cm-ben számított testmagasságát (cipő nélkül mérve): </label>
-        <input type="number"> <label >cm</label> <br>
+        <input type="number" id="cm"> <label >cm</label> <br>
         <label >Írja be kg-ban számított testsúlyát(cipő nélkül mérve):</label>        
-        <input type="number"> <label >kg</label> <br>
-        <button class="gomb" onclick="">Számítás</button>
+        <input type="number" id="kg"> <label >kg</label> <br>
+        <button class="gomb" id="szamitas">Számítás</button>
     </section>
+    <h2>Au ön BMI értéke: </h2><label id="sajatbmi"></label>
     <table>
         <tr>
             <th>18,5 vagy kevesebb</th>
@@ -42,6 +43,7 @@
             <td>III. FOKÚ ELHÍZÁS</td>
         </tr>        
     </table>
+    <h2>Az ideális testtömege: </h2><label id="idealisbmi"></label>
 </div>
     <script src="main.js"></script>
 </body>
