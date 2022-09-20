@@ -1,4 +1,4 @@
-# [Név]
+# Makker Zsombor
 
 ## Hogyan kezdj neki?
 
